@@ -101,7 +101,7 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KaranDhother&theme=tokyonight&hide_border=true)
-![Kuljit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranDhother&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranDhother&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranDhother&layout=compact&theme=tokyonight&hide_border=true)  
 </div>
 
@@ -112,7 +112,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]  
-[![Email](https://img.shields.io/badge/Email-kuljit6a%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karandhother2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-karandhother2006%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:karandhother2006@gmail.com)
 
 </div>
 

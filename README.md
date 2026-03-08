@@ -6,8 +6,7 @@
 
 ---
 ## 💻 Currently Working On  
-- Exploring start up dynamics with Nividia's new PersonaPlex model. Could provide a new realm of oppourtunities!
-- Working alongside my friend to create a meaningful project for Carleton students: RateMyCaf -- an interactive and gamified platform to rate items on the caf menu for the day to make better decisions regarding what to eat (on pause).
+- NBA PROP ANALYTIC WEBSITE DESIGNED TO HELP USERS WITH PROPS!
 ---
 
 ## ⚙️ Tech Stack  

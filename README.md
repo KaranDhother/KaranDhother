@@ -2,7 +2,7 @@
 
 🎓 **Computer Science @ Carleton University**  
 💡 **Ambitious** student trying to learn more through side projects!  
-🚀 Currently looking for a co-op position for **Summer 2026** 
+🚀 Currently looking for a co-op position for **Fall 2026** 
 
 ---
 ## 💻 Currently Working On  
